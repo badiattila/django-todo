@@ -26,7 +26,7 @@ SECRET_KEY = '@+o0!g3-prp8#_m%!mf%q)u&7y_88z#9%$kz_gru4r1g@b=sou'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["4e7f2ec57dd148129d788bed9cb8a213.vfs.cloud9.eu-west-1.amazonaws.com"]
+ALLOWED_HOSTS = ["4e7f2ec57dd148129d788bed9cb8a213.vfs.cloud9.eu-west-1.amazonaws.com","simple-django-todo-attila-badi.herokuapp.com"]
 
 
 # Application definition
