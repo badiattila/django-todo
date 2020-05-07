@@ -1,0 +1,15 @@
+<!<!DOCTYPE html>
+<html>
+
+<body>
+    <h1>I need to do this</h1>
+
+    <form method="POST">
+        {% csrf_token %} 
+        {{ form.as_p }}
+        <button type="submit">Save</button>
+        
+    </form>
+</body>
+
+</html>
